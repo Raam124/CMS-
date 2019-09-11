@@ -1,0 +1,109 @@
+.navbar-brand{
+    font-size: x-large;
+}
+.nav-link{
+    margin-left: 10px;
+}
+.col-sm-8{
+    margin: fill;
+    background-color: white;
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+}
+.col-sm-4{
+    margin: fill;
+    background-color: white;
+    padding-top: 10px;
+
+
+}
+
+#Footer{
+
+
+    padding: 10px;
+    border-top: 1px solid black;
+    columns: #eeeeee;
+    background-color: #211f22;
+    text-align: center;
+
+}
+.blogpost{
+    background-color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    overflow: hidden;
+}
+#heading{
+    margin-top: 10px;
+    font-family: Bitter, Georgia, "Times New Roman", Times, Serif ;
+    font-weight: bold;
+    color: black;
+}
+#heading:hover{
+    color: ThreeDDarkShadow;
+}
+.description{
+    font-family: "Courier New";
+    color: grey;
+    font-weight: bold;
+    margin-top: -2px;
+}
+.post{
+    font-size: 1em;
+    font-family: Verdana;
+    text-align: justify;
+    color: black;
+}
+.btn-info{
+    float: right;
+}
+.img-thumbnail{
+    margin-bottom: 20px;
+}
+.RecentHeading{
+    color: black;
+    padding-left: 20px;
+
+}
+.RecentDate{
+    margin-left: 90px;
+    font-family:"Fira Code Light";
+    font-size: medium;
+    font-weight: lighter;
+}
+.card-header{
+    background-color: indianred;
+}
+.card-body{
+    background-color: white;
+}
+#headingCategory{
+    color: black;
+    text-transform: uppercase;
+    padding: 10px;
+    font-weight: bold;
+    text-decoration: none;
+}
+#headingCategory:hover {
+    color: white;
+}
+.RecentHeading:hover{
+    color: white;
+}
+.TrendingHead{
+    font-family: Bitter, Georgia, "Times New Roman", Times, Serif ;
+    color: black;
+    margin-top: 10px;
+    font-size: large;
+    font-weight: bold;
+}
+.TrendingDate{
+    margin-top: -5px;
+    font-family:"Fira Code Light";
+    font-size: medium;
+    font-weight: lighter;
+}
+

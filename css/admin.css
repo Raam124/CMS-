@@ -1,0 +1,33 @@
+body{
+background-color: lightgrey;
+}
+.col-sm-10{
+    background-color: white;
+
+}
+.col-sm-2{
+    background-color: #b1dfbb;
+
+}
+#Side_Menu  a{
+    color: white;
+    margin-right: 10px;
+    margin-top: 10px;
+
+
+}
+#Side_Menu a:hover{
+    color: deepskyblue;
+    background-color: lightgrey;
+    font-weight: bold;
+    display: block;
+}
+#Footer{
+
+    padding: 10px;
+    border-top: 1px solid black;
+    columns: #eeeeee;
+    background-color: #211f22;
+    text-align: center;
+
+}

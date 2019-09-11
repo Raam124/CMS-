@@ -1,0 +1,19 @@
+.CommentBlock{
+    background-color: white;
+}
+.CommentName{
+    font-family: Verdana;
+    margin-bottom:-1px;
+    margin-right: 10px;
+    font-size: large;
+}
+.CommentDate{
+    font-size: small;
+
+}
+.Comments{
+ font-size: large;
+}
+.imagecl{
+    margin-right: 10px;
+}
